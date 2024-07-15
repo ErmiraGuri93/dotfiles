@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ere.guri@gmail.com
+	name = Ermira Guri
